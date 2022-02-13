@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Stack.StackFullException"/>
+    <fullyQualifiedTypeName name="LinkedList.Linkedlist.Node"/>
+    <fullyQualifiedTypeName name="Stack.StackEmptyException"/>
+    <fullyQualifiedTypeName name="Queue.MyQueue"/>
+    <fullyQualifiedTypeName name="LinkedList.Node"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="Queue.QueueEmptyException"/>
+    <fullyQualifiedTypeName name="Queue.QueueUsingStacks"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

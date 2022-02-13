@@ -1,0 +1,29 @@
+package StackAndQueueProblems;
+
+public class NextGreaterElement {
+	
+	public static int[] NGEbrute(int[] arr) {
+		int l = arr.length;
+		int[] ans = new int[l];
+		for(int i=0;i<l;i++) {
+			for(int j=i+1;j<l;j++) {
+				if(arr[j]>arr[i]) {
+					ans[i] = arr[j];
+				}else {
+					ans[i]=-1;
+				}
+			}
+		}
+		return ans;
+	}
+
+	public static void main(String[] args) {
+		int[] arr = {3,10,4,2,1,2,6,1,7,2,9};
+		int[] ans = NGEbrute(arr);
+		for(int item : ans) {
+			System.out.print(item+",");
+		}
+		s
+	}
+
+}
